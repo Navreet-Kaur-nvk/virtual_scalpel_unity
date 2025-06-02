@@ -3,7 +3,7 @@
 This repository contains my fork of the Virtual Scalpel project focused on 3D surgical simulation for gallbladder surgery.
 
 ## My Contributions
-- Created detailed 3D anatomical models of the gallbladder and surrounding tissues.
+- Created detailed 3D anatomical models of the gallbladder and surrounding tissues and operation theatre environment .
 - Organized and optimized 3D assets for integration with the simulation.
 - Added textures and layered models to enhance realism.
 
@@ -20,3 +20,4 @@ This repository contains my fork of the Virtual Scalpel project focused on 3D su
 ![Screenshot (107)](https://github.com/user-attachments/assets/9110d885-e518-4bd0-8522-40ea8c972337)
 ![Screenshot (106)](https://github.com/user-attachments/assets/4066fa32-e7b4-423a-9003-6b9072c11777)
 ![Screenshot (105)](https://github.com/user-attachments/assets/fa018cbf-8f1f-4a8a-bd10-21952a9b851f)
+![Screenshot (133)](https://github.com/user-attachments/assets/4e5597f2-54be-49cd-a29e-2d87e8d0dbd7)
